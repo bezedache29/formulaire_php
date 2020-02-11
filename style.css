@@ -43,4 +43,14 @@ header h1 {
 .conteneur p {
     margin-top: 5%;
     font-size: 25px;
+    margin-bottom: 5%;;
+}
+
+.conteneur form {
+    display: flex;
+    flex-direction: column;
+}
+
+.conteneur form input {
+    margin-bottom: 4%;
 }
