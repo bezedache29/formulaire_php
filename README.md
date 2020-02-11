@@ -1,2 +1,2 @@
 # formulaire_php
-Un formulaire PHP avec base de données
+Création d'un formulaire PHP en utilisant les $_COOKIE
